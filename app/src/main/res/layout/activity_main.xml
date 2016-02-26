@@ -3,7 +3,8 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="#819FF7">
 
     <TextView
         android:layout_marginTop="30dp"
@@ -12,6 +13,17 @@
         android:textSize="25dp"
         android:layout_gravity="center_horizontal"
         android:text="REMOTE BOUND CLIENT"
+        />
+
+    <EditText
+        android:id="@+id/inputText"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:hint="Enter a text message"
+        android:background="#FFFFFF"
         />
 
     <Button
