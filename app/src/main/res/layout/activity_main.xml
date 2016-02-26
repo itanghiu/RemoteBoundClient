@@ -31,7 +31,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:text="SEND COUNT MESSAGE"
+        android:text="COUNT MESSAGE"
         android:layout_marginTop="30dp"
       />
 
@@ -40,7 +40,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:text="SEND UPPERCASE MESSAGE"
+        android:text="UPPERCASE MESSAGE"
         android:layout_marginTop="30dp"
         />
 
